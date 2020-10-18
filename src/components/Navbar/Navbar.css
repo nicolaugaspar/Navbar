@@ -1,0 +1,55 @@
+
+
+.flex{
+   
+    position:relative;
+	background:#6b32a8; 
+	margin:0 30px;
+  padding:0 2px;
+	height: 100px;
+	width:1300px;
+   
+	}
+
+
+.NavbarItems{
+position:absolute;
+left: 50%;
+
+}
+ .navbar-logo{
+  
+    color:white;
+    position: relative;
+    left: -38%;
+    transform:translate(-100%, 100%);
+	cursor:pointer;
+	width:100px;
+	margin:0;
+	padding:0 5px;
+
+}
+
+.nav-menu{
+display:flex;
+position:relative;
+left: 1%;
+color:white;
+width: 300px;
+}
+
+.nav-links{
+   color: white;
+   text-decoration: none;
+   margin:10px 5px;
+   padding:20% 2%;
+  width:600px;
+
+}
+ li, a.items.cName{
+   position: relative;
+   left: 50%;
+	list-style: none;
+
+
+}
